@@ -1,13 +1,18 @@
 {
-  "title": "spire",
+  "title": "Spire",
   "category": "other",
-  "description": "",
-  "features": [],
-  "tags": [],
+  "description": "Climb an eight-floor tower, where every step can end your run. Survive a floor to increase your potential payout, then decide whether to climb again or cash out. Reach the top for a payout of 9.888× your stake. Each floor has four tiles and one hidden trap; the server determines the result of every step.",
+  "features": [
+    "Eight-step ladder",
+    "Cash out after any safe floor",
+    "Maximum payout: 9.888× stake",
+    "Theoretical RTP: 99.00%"
+  ],
+  "tags": ["tower", "ladder", "cash out"],
   "languages": [
     "en"
   ],
   "rules": {
-    "en": ""
+    "en": "Place a stake to start a round. Each floor has four tiles, one of which is a trap. The game reveals the result of each floor; surviving advances you to the next floor and increases the available payout. You may cash out after any safe floor to receive the payout shown for that floor. If a floor is a trap, the round ends and you lose your stake. There are eight floors. Reaching the eighth floor pays 9.888 times your stake, including the stake. The theoretical return to player (RTP) is 99.00%. All outcomes are determined by the game server."
   }
 }
