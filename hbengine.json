@@ -1,0 +1,6 @@
+{
+  "slug": "spire",
+  "portal": "http://127.0.0.1:8860",
+  "rgs": "http://127.0.0.1:8090",
+  "site": "http://localhost:3000"
+}

@@ -1,0 +1,1 @@
+{ "groups": { "boot": { "files": ["index.html", "game.js", "game.css"] } } }

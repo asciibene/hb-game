@@ -1,0 +1,61 @@
+{
+  "format": "house-engine-math/1",
+  "game": "spire",
+  "rtpBp": 9900,
+  "modes": [
+    {
+      "id": "climb",
+      "label": "Climb",
+      "kind": "ladder",
+      "steps": [
+        {
+          "table": "floor.tsv"
+        },
+        {
+          "table": "floor.tsv"
+        },
+        {
+          "table": "floor.tsv"
+        },
+        {
+          "table": "floor.tsv"
+        },
+        {
+          "table": "floor.tsv"
+        },
+        {
+          "table": "floor.tsv"
+        },
+        {
+          "table": "floor.tsv"
+        },
+        {
+          "table": "floor.tsv"
+        }
+      ],
+      "cashout": true,
+      "ladderBp": [
+        13200,
+        17600,
+        23466,
+        31288,
+        41718,
+        55624,
+        74166,
+        98888
+      ],
+      "bets": [
+        {
+          "id": "climb",
+          "label": "Climb",
+          "survive": [
+            [
+              0,
+              2
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

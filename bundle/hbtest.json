@@ -1,0 +1,5 @@
+{
+  "stake": { "page": "index.html", "selector": "hb-game hb-bet-amount input", "value": "1.00" },
+  "bet": { "page": "index.html", "selector": "hb-game [data-main]" },
+  "then": [{ "page": "index.html", "selector": "hb-game [data-next]" }, { "page": "index.html", "selector": "hb-game [data-cashout]" }]
+}
